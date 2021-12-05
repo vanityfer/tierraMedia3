@@ -8,6 +8,19 @@
 	box-sizing: border-box;
 }
 
+.bi-facebook, .bi-instagram, .bi-twitter{
+    color: rgb(144, 123,38);
+
+}
+.bi-twitter {
+    margin-right: 10px;
+}
+
+
+#img {
+    padding-top: 10px;
+}
+
 
 } 
 .contenedor{
